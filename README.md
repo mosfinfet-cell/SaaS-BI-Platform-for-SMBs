@@ -1335,7 +1335,7 @@ cd backend && pytest --cov=app --cov-fail-under=80
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for full text.
+
 
 ---
 
@@ -1348,9 +1348,7 @@ Built with:
 - [Twilio](https://twilio.com) — WhatsApp and SMS delivery
 - [@dnd-kit](https://dndkit.com) — Accessible drag-and-drop
 
-Dataset used for development testing: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle).
-
 ---
 
-*For questions, open an issue. For security vulnerabilities, email security@yourdomain.com directly.*
+
 
