@@ -1,4 +1,4 @@
-#  BizPulse — SMB Business Intelligence Platform
+# Bharatvantage — SMB Business Intelligence Platform
 
 > A Multi-tenant SaaS analytics platform built for small and medium businesses. Connect your data sources, monitor every metric that matters, forecast what's coming, and get alerted via WhatsApp, SMS, or email before problems become crises.
 
@@ -53,7 +53,7 @@
 
 ## Overview
 
-BizPulse is a full-stack SaaS platform that gives SMB owners and operators a single place to understand their business. It ingests data from Shopify, Stripe, QuickBooks, Xero, WooCommerce, and custom CSV/Excel uploads, then computes hundreds of metrics across revenue, customers, operations, and finance — and surfaces them through configurable dashboards.
+Bharatvantage is a full-stack SaaS platform that gives SMB owners and operators a single place to understand their business. It ingests data from Shopify, Stripe, QuickBooks, Xero, WooCommerce, and custom CSV/Excel uploads, then computes hundreds of metrics across revenue, customers, operations, and finance — and surfaces them through configurable dashboards.
 
 The platform is built around four core capabilities:
 
